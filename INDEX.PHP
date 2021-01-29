@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
     <title>Inicio</title>
-    <?php include './inc/link.php'; ?>
+    <?php include './inicio/link.php'; ?>
 </head>
 <body id="container-page-index">
-    <?php include './inc/navbar.php'; ?>
+    <?php include './inicio/navbar.php'; ?>
     <div class="jumbotron" id="jumbotron-index">
       <h1><span class="tittles-pages-logo">El Chino</span> <small style="color: #fff;">Andahuaylas</small></h1>
       <p>
@@ -84,6 +84,6 @@
             </div>
         </div>
     </section>
-    <?php include './inc/footer.php'; ?>
+    <?php include './inicio/footer.php'; ?>
 </body>
 </html>
