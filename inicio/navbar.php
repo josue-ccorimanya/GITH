@@ -24,10 +24,10 @@
     </div>
 </section>
 <nav id="navbar-auto-hidden">
-        <div class="row hidden-xs"><!-- Menu computadoras y tablets -->
+        <div class="row hidden-xs">
             <div class="col-xs-4">
                 <figure class="logo-navbar"></figure>
-                <p class="text-navbar tittles-pages-logo">EL Chino</p>
+                <p class="text-navbar tittles-pages-logo">Electronica el Chino</p>
             </div>
             <div class="col-xs-8">
                 <div class="contenedor-tabla pull-right">
@@ -71,7 +71,7 @@
                 </div>
             </div>
         </div>
-        <div class="row visible-xs"><!-- Mobile menu navbar -->
+        <div class="row visible-xs">
             <div class="col-xs-12">
                 <button class="btn btn-default pull-left button-mobile-menu" id="btn-mobile-menu">
                     <i class="fa fa-th-list"></i>&nbsp;&nbsp;Menú
@@ -100,13 +100,13 @@
             </div>
         </div>
     </nav>
-    <!-- Modal login -->
+   
     <div class="modal fade modal-login" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
       <div class="modal-dialog modal-sm">
           <div class="modal-content" id="modal-form-login">
                 <div class="modal-header">
                   <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-                  <h4 class="modal-title text-center text-primary" id="myModalLabel">Iniciar sesión en Cat Electronics</h4>
+                  <h4 class="modal-title text-center text-primary" id="myModalLabel">Iniciar sesión en Electronica Chino</h4>
                 </div>
             <form action="process/login.php" method="post" role="form" style="margin: 20px;" class="FormCatElec" data-form="login">
                   <div class="form-group">
@@ -140,10 +140,10 @@
           </div>
       </div>
     </div>
-    <!-- Fin Modal login -->
+
     <div id="mobile-menu-list" class="hidden-sm hidden-md hidden-lg">
         <br>
-        <h3 class="text-center tittles-pages-logo">Cat Electronics</h3>
+        <h3 class="text-center tittles-pages-logo">Electronica Chino</h3>
         <button class="btn btn-default button-mobile-menu" id="button-close-mobile-menu">
         <i class="fa fa-times"></i>
         </button>
@@ -162,7 +162,7 @@
             ?>
         </ul>
     </div>
-    <!-- Modal carrito -->
+
     <div class="modal fade modal-carrito" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true" style="padding: 20px;">
       <div class="modal-dialog modal-sm">
         <div class="modal-content">
@@ -173,9 +173,7 @@
           </div>
       </div>
     </div>
-    <!-- Fin Modal carrito -->
-    
-    <!-- Modal logout -->
+  
     <div class="modal fade modal-logout" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true" style="padding: 20px;">
       <div class="modal-dialog modal-sm">
         <div class="modal-content">
@@ -189,4 +187,4 @@
           </div>
       </div>
     </div>
-    <!-- Fin Modal logout -->
+  

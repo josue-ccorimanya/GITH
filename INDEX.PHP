@@ -7,7 +7,7 @@
 <body id="container-page-index">
     <?php include './inicio/navbar.php'; ?>
     <div class="jumbotron" id="jumbotron-index">
-      <h1><span class="tittles-pages-logo">El Chino</span> <small style="color: #fff;">Andahuaylas</small></h1>
+      <h1><span class="tittles-pages-logo">Electronica Chino</span> <small style="color: #fff;"></small></h1>
       <p>
           Bienvenido a nuestra tienda en linea, aquí encontrara una gran variedad de artículos.
       </p>

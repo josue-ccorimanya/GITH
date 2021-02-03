@@ -18,5 +18,5 @@
         </a>
     </ul>
     <br><br><br>
-    <h5 class="text-center tittles-pages-logo">El Chino &copy; 2016</h5>
+    <h5 class="text-center tittles-pages-logo">Eletronica Chino &copy; 2020</h5>
 </footer>
